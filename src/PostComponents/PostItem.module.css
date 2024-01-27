@@ -1,0 +1,22 @@
+.wrapper{
+    width: 480px;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px ;
+    text-align: center;
+    position: relative;
+}
+
+.btn{
+    width: 70px;
+    height: 40px;
+    background-color: green;
+    color: aliceblue;
+    border: 1px solid gray;
+    border-radius: 5px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
